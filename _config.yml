@@ -1,0 +1,28 @@
+name: leon gottheim
+favicon: null
+layout_spectrum: 0.24023988656699657
+typography_spectrum: 0.5962443200405687
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.22249993681907654
+  lightness: 0.6299534467980266
+  saturation: 0.9487797662150115
+  rhythmicContrast: 0.6089976811781526
+purpose: []
